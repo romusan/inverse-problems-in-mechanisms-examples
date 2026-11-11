@@ -1,0 +1,4 @@
+/.venv/
+/inputs/
+/figures/
+__pycache__/
